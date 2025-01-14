@@ -1,0 +1,1 @@
+# Django can handle multiple projects at the same time. 
